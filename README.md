@@ -12,17 +12,22 @@ Join the "100 Days, 100 Websites" challenge today and witness your proficiency i
 
 # Output - 1
 
-![Screenshot (10)](https://github.com/Portpolio-Website-Dynamic/assets/166281221/420d1dea-09b2-4e79-9372-f88164c4f63f)
+![Screenshot (10)](https://github.com/QuantumCoding123/Day-3-Portpolio-Website-Dynamic/assets/166281221/420d1dea-09b2-4e79-9372-f88164c4f63f)
 
 
 # Output - 2
 
-![Screenshot (11)](https://github.com/Portpolio-Website-Dynamic/assets/166281221/87661773-0201-49bc-aa80-621734b77f50)
+![Screenshot (11)](https://github.com/QuantumCoding123/Day-3-Portpolio-Website-Dynamic/assets/166281221/87661773-0201-49bc-aa80-621734b77f50)
 
 
 # Output - 3
 
-![Screenshot (12)](https://github.com/-Portpolio-Website-Dynamic/assets/166281221/7ae80745-8106-4ec2-8d49-d8281bcbb1c9)
+![Screenshot (12)](https://github.com/QuantumCoding123/Day-3-Portpolio-Website-Dynamic/assets/166281221/7ae80745-8106-4ec2-8d49-d8281bcbb1c9)
+
+
+
+
+
 
 
 
